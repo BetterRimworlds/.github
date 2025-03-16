@@ -1,7 +1,5 @@
 # Better Rimworlds: Building Better Worlds; All of Them.
 
-![Building Better Rimworlds](BetterRimworlds.png)
-
 ## About
 
 Better Rimworlds is a collection of 15+ mods designed to transform your RimWorld experience by integrating concepts from the Stargate universe (SG-1 and Atlantis) and expanding gameplay possibilities. Our mods focus on turning your RimWorld into a Hub World - a planet dedicated to facilitating transportation and trade at faster-than-light speeds through the implementation of Stargates and related technologies.
