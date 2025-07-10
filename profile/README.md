@@ -51,8 +51,6 @@ used, it can generate 100% of your colony's energy needs and is great for chargi
 
 5. [**ED-Enhanced Options:**](https://github.com/BetterRimworlds/ED-EnhancedOptions) A continuation of [Jaxxa's ED-Enhanced Options](https://github.com/jaxxa/ED-EnhancedOptions), ported to Rimworld v1.4 and v1.5. 24H plant growth, no speed slowdown, prevent roof collapse, and more.
 
-6. [**ED-Laser Drill**](https://github.com/BetterRimworlds/ED-LaserDrill): A continuation of [Jaxxa's ED-Laser Drill](https://github.com/jaxxa/ED-LaserDrill), ported to Rimworld v1.3, v1.4, and v1.5. Create your own Geothermal vents!
-
 ## Compatibility
 
 The Better Rimworlds collection is designed to work together seamlessly. While individual mods can function independently, they provide the best experience when used together. Compatibility with other popular mods is continuously improved.
